@@ -1,0 +1,13 @@
+{
+  "1.0.0": [
+    "Initial release of Launcher."
+  ],
+  "1.1.0": [
+    "Added fullscreen mode.",
+    "Removed menu bar for cleaner UI."
+  ],
+  "1.2.0": [
+    "Improved performance.",
+    "Added update detection with changelog display."
+  ]
+}
